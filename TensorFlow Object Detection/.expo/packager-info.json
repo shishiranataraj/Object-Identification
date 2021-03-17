@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://ys-kud.anonymous.with-tfjs-camera.exp.direct",
+  "packagerNgrokUrl": "https://packager.ys-kud.anonymous.with-tfjs-camera.exp.direct",
+  "ngrokPid": 20964,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
